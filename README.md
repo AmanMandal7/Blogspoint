@@ -1,5 +1,4 @@
-# Hi, I'm Aman Kumar Mandal! 👋
-## Blogspoint
+# Blogspoint
 
 It is a full stack blog website. One can login, register easily and then read any blog available on the site.  
 
